@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <com.l1ghtm4n.text2speech.Text2SpeechView id="@+id/text2speech" android:layout_width="fill_parent" android:layout_height="fill_parent" android:background="@drawable/icon"></com.l1ghtm4n.text2speech.Text2SpeechView>
+
+    <Button android:layout_width="wrap_content" 
+            android:layout_height="wrap_content"
+            android:text="Speak" />
+                
+</LinearLayout>

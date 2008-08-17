@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/l1ghtm4n/Documents/devel/android-sdk_m5-rc15_mac-x86/android.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
