@@ -1,0 +1,1 @@
+Google's Android platform does not provided TTS capabilities.  The goal of the project is to become the standard for Text2Speech services on the Android platform.
